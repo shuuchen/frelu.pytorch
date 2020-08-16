@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-* Simply replace nn.ReLU with FReLU(num_channels), details can be found [here]().
+* Simply replace nn.ReLU with FReLU(num_channels), details can be found [here](https://github.com/shuuchen/frelu.pytorch/blob/master/resnet.py).
 ```python
 from frelu import FReLU
 
