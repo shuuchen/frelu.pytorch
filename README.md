@@ -1,7 +1,7 @@
 # frelu.pytorch
 An unofficial pytorch implementation of funnel activation https://arxiv.org/pdf/2007.11824.pdf. Official implementation can be found [here](https://github.com/megvii-model/FunnelAct).
 
-<img src="https://github.com/shuuchen/frelu.pytorch/blob/master/images/frelu.png" width="480" height="200" />
+<img src="https://github.com/shuuchen/frelu.pytorch/blob/master/images/frelu.png" width="480" height="220" />
 
 
 ## Requirements
