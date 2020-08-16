@@ -19,11 +19,8 @@ bn = nn.BatchNorm2d(out_channels)
 frelu = FReLU(out_channels) # ⬅️
 ```
 
-
-## Performance
-<div align=left>
-![](images/frelu.jpg)
-</div>
+## TODO
+- [ ] ImageNet training & performance checking
 
 
 ## References
