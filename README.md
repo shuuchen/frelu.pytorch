@@ -2,12 +2,14 @@
 An unofficial pytorch implementation of funnel activation https://arxiv.org/pdf/2007.11824.pdf. Official implementation can be found [here](https://github.com/megvii-model/FunnelAct).
 
 <div align=left>
-![](images/frelu.jpg)
+![](images/frelu.png)
 </div>
 
 
 ## Requirements
-[]()
+```
+pip install -r requirements.txt
+```
 
 ## Usage
 * Simply replace nn.ReLU with FReLU(num_channels), details can be found [here]().
